@@ -1,12 +1,5 @@
 # Legal Clause Analyzer — Trợ lý nhận diện rủi ro hợp đồng pháp lý
 
-**Group 5:** Nguyễn Hoài Khánh · Lê Tuấn Kiệt · Bùi Ngọc Phương Uyên · Dương Gia Bảo
-
-A first-pass review tool for HR and Sales staff. It reads a contract (`.docx` or `.pdf`), flags risky
-sentences, explains each one with the key amounts, percentages, durations and parties, and returns the
-original file with those sentences highlighted red, plus a summary table.
-
-> **Checkpoint 2 report.** Sections 1–3 below answer the checkpoint questions. Setup instructions are at the end.
 >
 > *Công cụ chỉ mang tính hỗ trợ sàng lọc, không thay thế tư vấn pháp lý.*
 
